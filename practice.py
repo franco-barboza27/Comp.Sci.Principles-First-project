@@ -1,5 +1,5 @@
 siblings = ["ashton", "gage", "franco", "leo", "melian"]
-x = 0k
+x = 0
 for sib in siblings:
     if sib == "melian":
         print("Hello whiner")
